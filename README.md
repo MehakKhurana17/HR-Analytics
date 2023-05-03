@@ -10,6 +10,8 @@ This dashboard shows attrition analysis done for employees a company so that org
 
 Attrition analysis is the process of examining and understanding the reasons why employees leave a company or organization. High attrition rates can be detrimental to an organization, leading to increased costs associated with recruitment, hiring, and training of new employees, as well as reduced productivity and employee morale. The analysis can help identify the underlying causes of employee turnover, such as job dissatisfaction, inadequate compensation and benefits, lack of career growth opportunities, poor leadership and management practices, and workplace culture issues.
 
+# To interact with dashboard: [Click Here](https://public.tableau.com/app/profile/mehak.khurana/viz/HRAnalytics_16709606379430/HRAnalyticsDashboard)
+
 # Insights
 
 1. 16.12% employee attrition rate is observed in the company.
