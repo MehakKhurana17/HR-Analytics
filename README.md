@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR Analytics
 
 # About Project 
 
@@ -14,20 +14,18 @@ Attrition analysis is the process of examining and understanding the reasons why
 
 # Insights
 
-1. 16.12% employee attrition rate is observed in the company.
+1. The company has observed an attrition rate of 16.12%.
 
-2. Attrition count is observed to be more for males .It is almost double the attrition count for females.
+2. Attrition is higher for male employees compared to female employees, with males having almost double the attrition rate of females.
 
-3. Attrition is seen to be maximum for R&D department, more than half of the attritions are from R&D department. On the other hand attrition count is minimum for HR Department which is only 5 % of total attrition count.
+3. The R&D department has the highest attrition rate, accounting for more than half of the total attrition count. The HR department, on the other hand, has the lowest attrition rate, accounting for only 5% of the total attrition count.
 
-4. Majority of the employees are in the age group of 30-36. Very few employees are in the age group above 55.
+4. The majority of employees fall in the age group of 30-36 years, and very few employees are above 55 years of age. 
+ 
+5. The age group of 25-34 years has the highest attrition rate, while the attrition rate is lowest for employees over 55 years of age. Men have a higher attrition rate than women across all age groups.
 
-5. Attrition rate was found to be more for the age group 25 - 34 and least for age group over 55. We observed for all age groups men have higher attrition rate than women.
+6. Around one-third of the employees are fully satisfied with their jobs, with most of them being Sales Executives and Research Scientists. 
+ 
+7. Around 289 employees out of a total of 1470 are not satisfied with their jobs at all, with most of them being Sales Executives and Laboratory Technicians.
 
-6. Around one-third of the employees are fully satisfied with their jobs. Among those one-third , majority of the employees are Sales Executives and Research Scientists. 
-
-7. Around 289 people from a total 0f 1470 are not at all satisfied with their jobs and most of them are Sales Executives and Laboratory Technicians.
-
-8. Attrition rate was more for people who had Life Sciences as their educational field followed by the people having Medical as their educational field and was least for people with Human Resources as their educational background.
-
-
+8. The attrition rate is highest for employees with Life Sciences as their educational field, followed by those with Medical as their educational field, and is lowest for employees with Human Resources as their educational background.
