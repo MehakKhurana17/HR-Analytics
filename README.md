@@ -2,7 +2,7 @@
 
 # About Project 
 
-This dashboard shows attrition analysis done for employees a company so that organizations can develop strategies to reduce attrition, such as improving employee engagement, implementing better training and development programs, providing competitive compensation and benefits packages, and creating a positive work environment.
+This dashboard shows attrition analysis done for employees in a company so that organizations can develop strategies to reduce attrition, such as improving employee engagement, implementing better training and development programs, providing competitive compensation and benefits packages, and creating a positive work environment.
 
 ![employee-attrition-27720685](https://user-images.githubusercontent.com/121285271/236055029-fd544edb-8fba-4dde-9069-f3a44ac1939a.jpg)
 
